@@ -404,10 +404,6 @@ class HotelManagement:
         # Percentage text
             cv.create_text(55, 55, text=f"{pct}%", font=("Arial", 16, "bold"))
 
-        tk.Label(card, text=f"Price: Rs.{info['price']}/day",
-                 font=("Arial", 11, "bold"), bg=self.clr['lt'],
-                 fg=self.clr['pri']).pack(pady=5)
-
     def restaurant(self):
         self.clear()
         self.cart = []
