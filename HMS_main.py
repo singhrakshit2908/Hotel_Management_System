@@ -808,43 +808,28 @@ class HotelManagement:
         tf.pack(fill=tk.BOTH, expand=True, padx=20, pady=10)
         
         ts = ttk.Scrollbar(tf, orient=tk.VERTICAL)
-        ts.pack(side=tk.RIGHT, fill=tk.Y)
-
         cols = ('ID', 'Name', 'Phone', 'Room', 'Type', 'Check-In', 'Check-Out', 'Days', 'Total', 'Status')
-        tr = ttk.Treeview(tf, columns=cols, show='headings', yscrollcommand=ts.set, height=15)
+        tr = ttk.Treeview(tf, columns=cols, show='headings', yscrollcommand=ts.set)
         ts.config(command=tr.yview)
         
         for col in cols:
-            w = 80 if col in ['ID', 'Room', 'Days'] else 120
             tr.heading(col, text=col)
-            tr.column(col, width=w, anchor='w')
-
+            tr.column(col, width=80 if col in ['ID', 'Room', 'Days'] else 100)
+        
         tr.tag_configure('odd', background=self.clr['wh'])
         tr.tag_configure('even', background=self.clr['lt'])
-
-        tr.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)        
+        
         def pop(s=""):
-            query = str(s).lower()
-
             tr.delete(*tr.get_children())
-
             for i, (_, b) in enumerate(d.iterrows()):
-                name = str(b['name'])
-                phone = str(b['phone'])
-                cid = str(b['customer_id'])
-                if query and not (
-                    query in name.lower() or
-                    query in phone.lower() or
-                    query in cid.lower()):
+                if s and s.lower() not in str(b['customer_id']).lower() and s.lower() not in b['name'].lower() and s.lower() not in b['phone'].lower():
                     continue
-            sts = "CANCELLED" if b['cancelled'] else ("COMPLETED" if b['payment_done'] else "ACTIVE")
-            tot = b['room_price'] * b['stay_duration'] + b['restaurant_charges'] + b['necessities_charges']
-            tr.insert('', tk.END,
-                values=(
-                    b['customer_id'], name[:20], phone, b['room_no'],
-                    b['room_type'][:18], b['checkin'], b['checkout'],
-                    b['stay_duration'], tot, sts),
-                tags=('even' if i % 2 == 0 else 'odd',))
+                sts = "CANCELLED" if b['cancelled'] else ("COMPLETED" if b['payment_done'] else "ACTIVE")
+                tot = b['room_price'] * b['stay_duration'] + b['restaurant_charges'] + b['necessities_charges']
+                tr.insert('', tk.END, values=(b['customer_id'], b['name'][:20], b['phone'], b['room_no'],
+                    b['room_type'][:18], b['checkin'], b['checkout'], b['stay_duration'], tot, sts),
+                    tags=('even' if i % 2 == 0 else 'odd',))
+        
         se.bind('<KeyRelease>', lambda e: pop(se.get()))
         pop()
         
