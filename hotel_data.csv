@@ -1,7 +1,105 @@
-name,phone,address,checkin,checkout,room_type,room_price,room_no,customer_id,stay_duration,restaurant_charges,necessities_charges,payment_done,cancelled
-Raksihr SIngh-oisjdvofjn,0987654321,sdiuvhiuh,07/12/2025,09/12/2025,3-Bed Non-AC,4500,349,1685,2,0,0,False,False
-Raksihr SIngh-oisjdvofjn,0987654321,sdiuvhiuh,07/12/2025,09/12/2025,3-Bed Non-AC,4500,301,1686,2,0,0,False,False
-Raksihr SIngh-oisjdvofjn,0987654321,sdiuvhiuh,07/12/2025,09/12/2025,3-Bed Non-AC,4500,314,1687,2,0,0,False,False
-Raksihr SIngh-oisjdvofjn,0987654321,sdiuvhiuh,07/12/2025,09/12/2025,3-Bed Non-AC,4500,302,1688,2,0,0,False,False
-Raksihr SIngh-oisjdvofjn,0987654321,sdiuvhiuh,07/12/2025,09/12/2025,3-Bed Non-AC,4500,342,1689,2,0,0,False,False
-Raksihr SIngh-oisjdvofjn,0987654321,sdiuvhiuh,07/12/2025,09/12/2025,3-Bed Non-AC,4500,329,1690,2,0,0,False,False
+name,phone,address,checkin,checkout,room_type,room_price,room_no,customer_id,stay_duration,restaurant_charges,payment_done,cancelled,necessities_charges
+dfgdj,5467474928,shtddjcdt,10/12/2025,30/12/2025,Standard Non-AC,3500,6231,5783,20,0,True,False,0
+Akshansh,1234567890,kjhdfskjn,13/11/2025,19/11/2025,3-Bed Non-AC,4500,9474,2408,6,0,True,False,0
+dp[sklgp[eodpr[-dfljg,987654321,zdfjioj,21/11/2025,28/11/2025,3-Bed Non-AC,4500,347,5784,7,0,False,False,0
+dp[sklgp[eodpr[-dfljg,987654321,zdfjioj,21/11/2025,28/11/2025,3-Bed Non-AC,4500,326,5785,7,0,False,False,0
+dp[sklgp[eodpr[-dfljg,987654321,zdfjioj,21/11/2025,28/11/2025,3-Bed Non-AC,4500,313,5786,7,0,False,False,0
+aadya,9883836647,thgfds,22/11/2025,25/11/2025,3-Bed AC,5000,443,5787,3,0,True,False,0
+opticore-Akshansh,987654321,gfbdhjsck,22/11/2025,23/11/2025,Standard AC,4000,217,5788,1,0,False,False,0
+opticore-Akshansh,987654321,gfbdhjsck,22/11/2025,23/11/2025,Standard AC,4000,208,5789,1,0,False,False,0
+opticore-Akshansh,987654321,gfbdhjsck,22/11/2025,23/11/2025,Standard AC,4000,233,5790,1,0,False,False,0
+opticore-Akshansh,987654321,gfbdhjsck,22/11/2025,23/11/2025,Standard AC,4000,219,5791,1,0,False,False,0
+opticore-Akshansh,987654321,gfbdhjsck,22/11/2025,23/11/2025,Standard AC,4000,245,5792,1,0,False,False,0
+opticore-Akshansh,987654321,gfbdhjsck,22/11/2025,23/11/2025,Standard AC,4000,214,5793,1,0,False,False,0
+opticore-Akshansh,987654321,gfbdhjsck,22/11/2025,23/11/2025,Standard AC,4000,210,5794,1,0,False,False,0
+Virat Chaudary,2232425262,A001,22/11/2025,23/11/2025,Standard Non-AC,3500,129,5795,1,0,False,False,0
+Faleha Abrar,1121314151,A002,22/11/2025,30/11/2025,Standard Non-AC,3500,136,5796,8,0,False,False,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,103,5797,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,134,5798,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,150,5799,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,123,5800,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,110,5801,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,101,5802,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,128,5803,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,137,5804,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,130,5805,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,125,5806,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,112,5807,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,124,5808,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,149,5809,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,138,5810,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,142,5811,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,105,5812,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,143,5813,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,107,5814,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,115,5815,7,0,False,True,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,119,5816,7,0,False,False,0
+WandersHub-Ria,2345678901,A003,22/11/2025,29/11/2025,Standard Non-AC,3500,127,5817,7,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,429,5818,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,434,5819,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,404,5820,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,418,5821,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,443,5822,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,422,5823,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,409,5824,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,423,5825,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,416,5826,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,428,5827,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,450,5828,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,447,5829,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,436,5830,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,426,5831,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,427,5832,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,413,5833,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,424,5834,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,421,5835,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,446,5836,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,440,5837,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,402,5838,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,407,5839,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,431,5840,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,444,5841,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,433,5842,4,0,False,True,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,411,5843,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,435,5844,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,432,5845,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,449,5846,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,406,5847,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,439,5848,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,430,5849,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,445,5850,4,0,False,False,0
+Wonderful Why-Advita,9080706050,A004,22/11/2025,26/11/2025,3-Bed AC,5000,442,5851,4,0,False,False,0
+Jaskeerat,1234567891,A005,22/11/2025,23/11/2025,Standard Non-AC,3500,126,5852,1,0,False,False,0
+MyselfPerfect-Pari,2323232323,A005,22/11/2025,27/11/2025,3-Bed AC,5000,441,5853,5,0,False,False,0
+MyselfPerfect-Pari,2323232323,A005,22/11/2025,27/11/2025,3-Bed AC,5000,448,5854,5,0,False,False,0
+MyselfPerfect-Pari,2323232323,A005,22/11/2025,27/11/2025,3-Bed AC,5000,437,5855,5,0,False,False,0
+DOMORE-Anshika,1213141516,A007,22/11/2025,28/11/2025,Standard Non-AC,3500,116,5856,6,0,True,False,0
+DOMORE-Anshika,1213141516,A007,22/11/2025,28/11/2025,Standard Non-AC,3500,122,5857,6,0,False,False,0
+DOMORE-Anshika,1213141516,A007,22/11/2025,28/11/2025,Standard Non-AC,3500,145,5858,6,0,False,False,0
+DOMORE-Anshika,1213141516,A007,22/11/2025,28/11/2025,Standard Non-AC,3500,109,5859,6,0,False,False,0
+DOMORE-Anshika,1213141516,A007,22/11/2025,28/11/2025,Standard Non-AC,3500,120,5860,6,0,True,False,0
+DOMORE-Anshika,1213141516,A007,22/11/2025,28/11/2025,Standard Non-AC,3500,111,5861,6,0,False,False,0
+DOMORE-Anshika,1213141516,A007,22/11/2025,28/11/2025,Standard Non-AC,3500,114,5862,6,0,False,False,0
+DOMORE-Anshika,1213141516,A007,22/11/2025,28/11/2025,Standard Non-AC,3500,144,5863,6,0,False,False,0
+TeamToppers-Sunil Kumar Sharma,9212318283,"Alpha 2, Greater Noida",22/11/2025,25/11/2025,3-Bed Non-AC,4500,331,5864,3,0,False,False,0
+TeamToppers-Sunil Kumar Sharma,9212318283,"Alpha 2, Greater Noida",22/11/2025,25/11/2025,3-Bed Non-AC,4500,341,5865,3,0,False,False,0
+TeamToppers-Sunil Kumar Sharma,9212318283,"Alpha 2, Greater Noida",22/11/2025,25/11/2025,3-Bed Non-AC,4500,307,5866,3,0,False,False,0
+TeamToppers-Sunil Kumar Sharma,9212318283,"Alpha 2, Greater Noida",22/11/2025,25/11/2025,3-Bed Non-AC,4500,336,5867,3,0,False,False,0
+Bennettians-Rahul sharma,8976567833,Noida,22/11/2025,26/11/2025,Standard AC,4000,238,5868,4,0,False,False,0
+Bennettians-Rahul sharma,8976567833,Noida,22/11/2025,26/11/2025,Standard AC,4000,203,5869,4,0,False,False,0
+Bennettians-Rahul sharma,8976567833,Noida,22/11/2025,26/11/2025,Standard AC,4000,249,5870,4,0,False,False,0
+Bennettians-Rahul sharma,8976567833,Noida,22/11/2025,26/11/2025,Standard AC,4000,204,5871,4,0,False,False,0
+Bennettians-Rahul sharma,8976567833,Noida,22/11/2025,26/11/2025,Standard AC,4000,242,5872,4,0,False,False,0
+Aditya,7654333477,hgfd,22/11/2025,24/11/2025,Standard Non-AC,3500,103,5873,2,0,False,False,0
+Kalyann-Sarthak Tiwari,8976543224,lkjhgtre,22/11/2025,27/11/2025,Standard Non-AC,3500,128,5874,5,0,False,False,0
+Kalyann-Sarthak Tiwari,8976543224,lkjhgtre,22/11/2025,27/11/2025,Standard Non-AC,3500,115,5875,5,0,False,False,0
+Kalyann-Sarthak Tiwari,8976543224,lkjhgtre,22/11/2025,27/11/2025,Standard Non-AC,3500,104,5876,5,0,False,False,0
+Kalyann-Sarthak Tiwari,8976543224,lkjhgtre,22/11/2025,27/11/2025,Standard Non-AC,3500,135,5877,5,0,False,False,0
+Kalyann-Sarthak Tiwari,8976543224,lkjhgtre,22/11/2025,27/11/2025,Standard Non-AC,3500,101,5878,5,0,False,False,0
+Anuradha Ji,8859155529,dfkjsmncsd,26/11/2025,29/11/2025,Standard AC,4000,220,5879,3,0,False,False,0
+Anuradha Ji,8859155529,dfkjsmncsd,26/11/2025,29/11/2025,Standard AC,4000,207,5880,3,0,False,False,0
+Anuradha Ji,8859155529,dfkjsmncsd,26/11/2025,29/11/2025,Standard AC,4000,224,5881,3,0,False,False,0
+tge-tegrd,1234567890,hngfbdvs,30/11/2025,02/12/2025,Standard Non-AC,3500,134,5882,2,0,False,False,0
+tge-tegrd,1234567890,hngfbdvs,30/11/2025,02/12/2025,Standard Non-AC,3500,106,5883,2,0,False,False,0
+tge-tegrd,1234567890,hngfbdvs,30/11/2025,02/12/2025,Standard Non-AC,3500,107,5884,2,0,False,False,0
+tge-tegrd,1234567890,hngfbdvs,30/11/2025,02/12/2025,Standard Non-AC,3500,123,5885,2,0,False,False,0
