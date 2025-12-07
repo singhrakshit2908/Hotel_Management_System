@@ -143,6 +143,7 @@ FUTURE IMPROVEMENTS
 • Add notifications or email receipts  
 • Improve UI with modern theming  
 • Add mobile or web edition  
+• Divide the code into smaller files and seperate modules
 
 
 ------------------------------------------------------------
