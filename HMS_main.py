@@ -90,10 +90,6 @@ class HotelManagement:
         
         self.cont = tk.Frame(self.main, bg=self.clr['wh'])
         self.cont.pack(side=tk.RIGHT, fill=tk.BOTH, expand=True, padx=10, pady=10)
-        
-        self.stat = tk.Label(self.win, text="Ready", bd=1, relief=tk.SUNKEN, 
-                            anchor=tk.W, bg=self.clr['lt'])
-        self.stat.pack(side=tk.BOTTOM, fill=tk.X)
         self.dash()
 
     def clear(self):
