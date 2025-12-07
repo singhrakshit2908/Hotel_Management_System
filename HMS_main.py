@@ -1,6 +1,5 @@
 import random
 from datetime import datetime
-from turtle import st
 import pandas as pd
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext
